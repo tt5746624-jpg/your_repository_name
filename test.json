@@ -1,5 +1,8 @@
 [
   {
-    "Test": "xio"
+    "hero": "New Hero",
+    "upgradable_skin": "New Skin",
+    "image": "",
+    "script": ""
   }
 ]
