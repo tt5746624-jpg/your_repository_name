@@ -1,1 +1,5 @@
-
+[
+  {
+    "message": "Fixes & Optimizations\n\n• Fixed Shizuku service errors on compatibility-affected devices.\n• Fixed background configuration and asset loading issues.\n• optimization for low-end devices.\n• General bug fixes and full optimization for all Android devices."
+  }
+]
