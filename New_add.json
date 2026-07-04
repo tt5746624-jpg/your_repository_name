@@ -1,5 +1,12 @@
 [
   {
+    "Name": "Michael Jackson",
+    "Role": "Fighter",
+    "img": "https://i.ibb.co/hJccHs6c/ce0f3a9a3eea.jpg",
+    "img2": "https://mobile-legends.fandom.com/wiki/Special:FilePath/Hero261-icon.png",
+    "Script": "https://raw.githubusercontent.com/tt5746624-jpg/Skins/main/Jackson.zip"
+  },
+  {
     "Name": "Ken",
     "Role": "Fighter",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRp5HtzM9W1zXFsRKBb8TCuDucz2c5sHBHpAzKLYDcNZ4kRvhuhYk1Qnc&s=10",
